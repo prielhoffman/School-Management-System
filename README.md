@@ -201,9 +201,3 @@ Implement a school management system with the following classes:
 9. **Print Highest Salary Worker**: Print details of the worker with the highest salary.
 10. **Exit**: Exit the system and release all allocated memory.
 
-## Notes
-
-- Make sure to handle all memory allocations and deallocations properly.
-- Validate all user inputs to ensure correct functionality.
-- Follow the provided guidelines and structure for implementation.
-
